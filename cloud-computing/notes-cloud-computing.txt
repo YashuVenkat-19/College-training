@@ -1,0 +1,28 @@
+cloud-computing
+ - delivery of on demand it-services
+ - it resourses - storage
+		- networking
+		- computing
+		- database
+
+- CLOUD DEPLOYMENT MODEL
+	- public
+	- private
+	- hybrid
+
+- SEGMENTS
+	- Infra as a Service
+	- Platform as a Service
+	- Software as a Service
+
+- ADVANTAGES
+	- stop guessing capacity
+	- trade capital expenses with variable expenses
+	- massive economic of scale
+	- go global in minutes
+	- 
+
+- AWS is good, cool, powerful
+
+- aws -> google -> microsoft -> ibm
+- azure, alibaba, oracle, 
